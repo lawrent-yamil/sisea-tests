@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, sans-serif, 'Calibri';
+}
+
+div[id] {
+    scroll-margin-top: 100px;
+}
+
+html {
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,17 @@
+.pie-body {
+    width: 100%;
+    background-color: black;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.pie-body p{
+    text-decoration: none;
+    color: white;
+}
+
+.pie-body a{
+    text-decoration: none;
+    color: white;
+}
