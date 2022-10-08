@@ -10,7 +10,8 @@ import produc5 from "../assets/img/servicio5.png"
 function Servicios() {
   return (
     <>
-      <div id="Servicios" className="MAIN">
+    <div id="Servicios">
+      <div  className="MAIN">
         <h1 className="titulo-servicios">Servicios</h1>
         <ul className="cards">
           <li className="cards_item">
@@ -100,6 +101,7 @@ function Servicios() {
           </li>
         </ul>
       </div>
+    </div>
     </>
   );
 }

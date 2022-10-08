@@ -35,7 +35,7 @@ function Encabezado() {
             </Link>
           </li>
           <li>
-            <Link smooth to="/catalogo" className="CONTACTO">
+            <Link smooth to="/catalogo/#" className="CONTACTO">
               Cat&aacute;logo
             </Link>
           </li>
